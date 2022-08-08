@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2d2406a7-fed0-4845-bd50-1113688a3afb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Day 1\Day1-Practices.py</StartupFile>
+    <StartupFile>Day 1\Day1-project (Band Name Generator).py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2d2406a7-fed0-4845-bd50-1113688a3afb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Day 1\Day1-project (Band Name Generator).py</StartupFile>
+    <StartupFile>Day 1- Working with Variables in Python to Manage Data\Day1-project (Band Name Generator).py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,13 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Day 1\Day1-Practices.py" />
-    <Compile Include="Day 1\Day1-project %28Band Name Generator%29.py">
+    <Compile Include="Day 1- Working with Variables in Python to Manage Data\Day1-Practices.py" />
+    <Compile Include="Day 1- Working with Variables in Python to Manage Data\Day1-project %28Band Name Generator%29.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Day 1\" />
+    <Folder Include="Day 1- Working with Variables in Python to Manage Data\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
